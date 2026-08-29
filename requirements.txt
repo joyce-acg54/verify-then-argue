@@ -1,0 +1,4 @@
+matplotlib>=3.11
+openai>=2.41
+python-dotenv>=1.2
+requests>=2.34

@@ -1,0 +1,128 @@
+[
+  {
+    "claim": "Fixed automation systems such as conveyors and shuttles cost EUR 2-8M and take 12-18 months to install.",
+    "verdict": "no_evidence",
+    "source_reliability": 0.55,
+    "consistency": 0.7,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "Annual labor churn in European logistics hubs exceeds 40%.",
+    "verdict": "belief",
+    "source_reliability": 0.72,
+    "consistency": 0.81,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "Aquilon's robots map a warehouse autonomously on day one and can be deployed in under two weeks.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "The current robot generation carries a 35 kg payload, uses an 8-hour swappable battery, and travels at 1.6 m/s.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "Aquilon was named Intralogistics Robot of the Year 2025 by the European Warehouse Automation Council.",
+    "verdict": "no_evidence",
+    "source_reliability": 0.0,
+    "consistency": 1.0,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "Pilot fleets total 41 robots moving roughly 9,000 totes per day combined.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "Average pilot contract value is EUR 11,500 per month.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "Two pilot customers have converted to 24-month expansion agreements.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "Net revenue retention across converted accounts is 138%.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "Letters of intent are signed for 4 additional sites representing EUR 610k ARR.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "There are 38,000 mid-size warehouses across the EU and UK.",
+    "verdict": "ignorance",
+    "source_reliability": 0.48,
+    "consistency": 0.5,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "The warehouse-automation market for mid-size sites will grow at a 17% CAGR from 2025 to 2030.",
+    "verdict": "no_evidence",
+    "source_reliability": 0.35,
+    "consistency": 0.58,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "The CTO has 11 years of experience in mobile-robot SLAM and multi-agent path planning.",
+    "verdict": "disbelief",
+    "source_reliability": 0.66,
+    "consistency": 0.32,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "Current ARR is EUR 292k with a monthly burn of EUR 145k and 7 months of runway.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "A robotics-as-a-service model priced per robot plus per tote aligns vendor incentives with customer throughput.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "inference"
+  },
+  {
+    "claim": "If two of six pilots convert to multi-year agreements, the product has demonstrated repeatable value in production settings.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "inference"
+  },
+  {
+    "claim": "A EUR 3.5M seed round is an appropriate amount for this stage and plan.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "normative"
+  },
+  {
+    "claim": "Gross margin at pilot volumes is 31% against a target of 58% at scale.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  }
+]

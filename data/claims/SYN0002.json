@@ -1,0 +1,128 @@
+[
+  {
+    "claim": "Dehydration and electrolyte imbalance cause an estimated 20% of heat-related workplace incidents in construction, mining, and agriculture.",
+    "verdict": "no_evidence",
+    "source_reliability": 0.42,
+    "consistency": 0.6,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "EU occupational-health regulation on heat-stress duty of care is tightening.",
+    "verdict": "belief",
+    "source_reliability": 0.78,
+    "consistency": 0.84,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "The Meridian patch measures sweat electrolyte concentration and sweat rate continuously for up to 12 hours.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "The dashboard flags workers trending toward dehydration 30-45 minutes before symptomatic decline.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "Patch unit cost is EUR 3.80 at pilot volume with a target of EUR 1.10 at scale.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "The ion-selective electrode array is printed rather than assembled, enabling roll-to-roll production.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "Three patent families have been filed covering microfluidics, electrode printing, and alerting logic.",
+    "verdict": "no_evidence",
+    "source_reliability": 0.5,
+    "consistency": 0.66,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "Bench validation against laboratory sweat analysis achieved r = 0.91 across 240 samples.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "A field study with 62 participants across two summer construction seasons has been completed.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "The field study was conducted jointly with the European Institute for Occupational Heat Safety and published in 2025.",
+    "verdict": "no_evidence",
+    "source_reliability": 0.0,
+    "consistency": 1.0,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "The company has paid pilots with 5 industrial sites across two EU countries.",
+    "verdict": "no_evidence",
+    "source_reliability": 0.38,
+    "consistency": 0.55,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "1,900 patches have been consumed in pilots to date with repeat orders from 4 of 5 sites.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "There are 2.1M outdoor heat-exposed workers in Southern and Central Europe.",
+    "verdict": "disbelief",
+    "source_reliability": 0.61,
+    "consistency": 0.28,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "The CSO has published 14 papers on wearable sweat sensing.",
+    "verdict": "belief",
+    "source_reliability": 0.8,
+    "consistency": 0.77,
+    "routing": "verifiable"
+  },
+  {
+    "claim": "Monthly burn is EUR 88k with 9 months of runway.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "unverifiable"
+  },
+  {
+    "claim": "Positioning the product as occupational-safety equipment rather than a medical device materially lowers the regulatory burden.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "inference"
+  },
+  {
+    "claim": "Repeat orders from 4 of 5 pilot sites indicate genuine willingness to pay beyond pilot novelty.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "inference"
+  },
+  {
+    "claim": "A EUR 2.8M raise is appropriately sized for the stated manufacturing and validation milestones.",
+    "verdict": null,
+    "source_reliability": null,
+    "consistency": null,
+    "routing": "normative"
+  }
+]

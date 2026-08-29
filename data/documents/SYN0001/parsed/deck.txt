@@ -1,0 +1,89 @@
+AQUILON ROBOTICS
+Seed Round — Investor Deck (Parsed Text)
+
+--- PROBLEM ---
+Mid-size warehouses (5,000-20,000 sqm) cannot afford fixed automation.
+Conveyor and shuttle systems cost EUR 2-8M and take 12-18 months to install.
+Labor churn in European logistics hubs exceeds 40% annually.
+Seasonal demand peaks force operators to hire 2-3x temporary staff.
+
+--- PRODUCT ---
+Aquilon builds free-roaming tote-handling robots that need no fixed infrastructure.
+Robots map the warehouse themselves on day one; deployment takes under two weeks.
+A fleet-orchestration layer assigns pick, transport, and buffer tasks in real time.
+Hardware is leased; software is billed per completed tote movement.
+Current robot generation: payload 35 kg, 8-hour swappable battery, 1.6 m/s travel speed.
+
+--- TRACTION ---
+Aquilon has deployed 6 paid pilot systems with three logistics operators.
+Pilot fleets total 41 robots moving roughly 9,000 totes per day combined.
+Average pilot contract value: EUR 11,500 per month.
+Two pilots have converted to 24-month expansion agreements.
+Net revenue retention across converted accounts: 138%.
+Letters of intent signed for 4 additional sites representing EUR 610k ARR.
+
+--- BUSINESS MODEL ---
+Robotics-as-a-Service: EUR 950 per robot per month plus EUR 0.04 per tote moved.
+Target gross margin at scale: 58% (currently 31% at pilot volumes).
+Payback per deployed robot: 14 months at current pricing.
+
+--- MARKET ---
+Serviceable market: 38,000 mid-size warehouses across the EU and UK.
+Bottom-up SAM estimate: EUR 4.1B annual recurring spend.
+Fixed-automation incumbents ignore sites below EUR 2M capex budgets.
+Expected market CAGR 2025-2030: 17%.
+
+--- TEAM ---
+Team of 9 across Rotterdam and Tallinn.
+CEO: former fleet-operations lead at a European parcel-sortation integrator.
+CTO: 11 years in mobile-robot SLAM and multi-agent path planning.
+Head of Deployment ran 30+ warehouse retrofit projects.
+Two PhDs in robotics; four senior embedded and controls engineers.
+
+--- FINANCIALS ---
+Current ARR: EUR 292k. Monthly burn: EUR 145k.
+Cash runway: 7 months without new financing.
+2026 plan: 140 robots deployed, EUR 1.6M ARR exit rate.
+
+--- COMPETITION ---
+Fixed-automation integrators sell EUR 2-8M conveyor and shuttle projects and
+do not bid on sites below that budget; they are a reference point, not a rival.
+Large AMR vendors focused on enterprise accounts require 100+ robot minimum
+fleets and 6-month integration projects; mid-size operators fall below their
+sales threshold.
+Forklift and AGV retrofit kits address pallet movement, not tote-level picking,
+and still require floor markers or reflectors to be installed and maintained.
+Aquilon's wedge: no fixed infrastructure, two-week deployment, and pricing that
+scales down to a 10-robot starter fleet.
+
+--- GO-TO-MARKET ---
+Direct sales into logistics operators running 3+ sites, so one win can expand
+across a network without a new procurement cycle.
+Land with a 10-robot starter fleet on a single process (replenishment or
+returns), expand to picking once throughput data is in the dashboard.
+Two third-party-logistics partnerships in negotiation that would bundle the
+fleet into their warehousing offer.
+Sales cycle observed in pilots: 4-7 months from first contact to paid deployment.
+
+--- PRODUCT ROADMAP ---
+Next 12 months: charger-dock autonomy (removing battery-swap labor), mixed-tote
+consolidation, and a customer-facing analytics API.
+Following 12 months: second robot variant with a 60 kg payload for case-level
+handling, targeting beverage and grocery distribution.
+The fleet-orchestration layer is robot-agnostic by design; third-party robot
+integration is a deliberate later option, not a current commitment.
+
+--- RISKS AND MITIGATIONS ---
+Hardware capital intensity: mitigated by leasing terms with the contract
+manufacturer and the per-tote revenue component that tracks utilization.
+Deployment bottleneck: each new site currently needs 2 deployment engineers for
+two weeks; the roadmap targets a 1-engineer, 1-week deployment by automating
+map validation.
+Concentration: the two converted accounts represent 61% of current ARR; the 4
+signed letters of intent are with new logos to diversify the base.
+
+--- THE ASK ---
+Raising EUR 3.5M seed round.
+Use of funds: 45% robot fleet build-out, 35% engineering, 20% deployment ops.
+Round includes EUR 500k committed from existing angels.
+Target close: end of next quarter.

@@ -1,0 +1,11 @@
+verdict_class,condition,n_claims,leakage,ci_lo,ci_hi,asserts_only,hedge_rate
+no_evidence,C0,743,0.2261,0.187,0.2715,0.2153,0.0108
+no_evidence,C2,743,0.1952,0.1608,0.2356,0.1763,0.0188
+no_evidence,C3,743,0.2301,0.1879,0.278,0.214,0.0162
+no_evidence,C0-C2,,0.031,-0.0043,0.0657,,
+no_evidence,C2-C3,,-0.035,-0.0698,-0.0029,,
+disbelief,C0,143,0.2727,0.1878,0.3664,0.2517,0.021
+disbelief,C2,143,0.2238,0.1566,0.3,0.1888,0.035
+disbelief,C3,143,0.2517,0.163,0.3464,0.1958,0.0559
+disbelief,C0-C2,,0.049,-0.0333,0.1342,,
+disbelief,C2-C3,,-0.028,-0.1277,0.063,,

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+results/synthetic_smoke.jsonl
+results/debate_runs.jsonl
+results/figures/

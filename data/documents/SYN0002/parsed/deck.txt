@@ -1,0 +1,91 @@
+MERIDIAN BIOSENSORS
+Seed Financing Deck (Parsed Text)
+
+--- PROBLEM ---
+Dehydration and electrolyte imbalance cause an estimated 20% of heat-related
+workplace incidents in construction, mining, and agriculture.
+Existing monitoring is manual: weigh-ins, urine charts, or nothing at all.
+Occupational-health regulations in the EU are tightening heat-stress duty of care.
+Site operators have no continuous, objective physiological signal for hydration.
+
+--- PRODUCT ---
+Meridian makes a single-use adhesive skin patch that measures sweat electrolyte
+concentration and sweat rate continuously for up to 12 hours.
+The patch pairs with a rugged site gateway; no worker smartphone is required.
+A dashboard flags workers trending toward dehydration 30-45 minutes before
+symptomatic decline, based on sodium loss and sweat-rate trajectories.
+Patch unit cost at pilot volume: EUR 3.80; target at scale: EUR 1.10.
+
+--- TECHNOLOGY ---
+Proprietary microfluidic channel design captures sweat without pooling artifacts.
+Ion-selective electrode array is printed, not assembled, enabling roll-to-roll production.
+Signal pipeline runs on-gateway; raw biosignals never leave the site by default.
+Three patent families filed (microfluidics, electrode printing, alerting logic).
+
+--- VALIDATION AND REGULATORY ---
+Bench validation against laboratory sweat analysis: r = 0.91 across 240 samples.
+Field study with 62 participants across two summer construction seasons completed.
+The product is positioned as occupational-safety equipment, not a medical device.
+CE-marking pre-submission planned for Q3 2026.
+
+--- TRACTION ---
+Paid pilots with 5 industrial sites across two EU countries.
+Pilot pricing: EUR 18 per worker per month, patches included.
+1,900 patches consumed in pilots to date; repeat orders from 4 of 5 sites.
+Signed MOU with one national construction-safety association.
+Pilot-derived ARR run rate: EUR 96k.
+
+--- MARKET ---
+Beachhead: 2.1M outdoor heat-exposed workers in Southern and Central Europe.
+Bottom-up beachhead value: EUR 450M annually at current pilot pricing.
+Adjacent segments: military training, industrial firefighting, elite sports.
+
+--- TEAM ---
+Founding team of 6 based in Porto.
+CEO: former product director at an industrial wearables company.
+CSO: PhD in electrochemistry, 14 papers on wearable sweat sensing.
+Head of Manufacturing scaled printed-electronics lines at two contract manufacturers.
+
+--- COMPETITION ---
+Consumer hydration wearables measure fluid intake or estimate sweat loss from
+heart rate; none measures electrolyte concentration directly, and none survives
+a construction site or works without a paired smartphone.
+Clinical-grade sweat-analysis systems are bench instruments used in research
+settings at four-figure unit costs; they are validation partners, not rivals.
+Generic heat-stress apps rely on ambient temperature and self-reporting, which
+site operators already distrust.
+Meridian's wedge: a direct electrochemical measurement, ruggedized delivery via
+the site gateway, and per-worker pricing that fits existing PPE budgets.
+
+--- GO-TO-MARKET ---
+Sell to site operators and occupational-health service providers, not to
+individual workers; the buyer is the party carrying the duty-of-care liability.
+The national construction-safety association MOU provides co-branded field
+guidance and access to member-company safety officers.
+Expansion motion: pilots convert site by site within the same corporate group,
+mirroring how the current repeat orders arrived.
+Patch consumption creates a recurring hardware revenue line on top of the
+per-worker subscription.
+
+--- ROADMAP ---
+Next 12 months: automated roll-to-roll pilot line at the contract manufacturer,
+gateway firmware hardening, and a shift-planning integration.
+Following 12 months: potassium and hydration-trend endpoints, plus a heat-acclimatization
+scoring module developed with the field-study partners.
+Regulatory path remains occupational-safety equipment; any medical-device
+positioning would be a separate, explicitly gated decision.
+
+--- RISKS AND MITIGATIONS ---
+Manufacturing yield at roll-to-roll scale is unproven; the EUR 1.10 unit-cost
+target assumes yields the pilot line has not yet demonstrated. Mitigation:
+staged capacity commitments and a second-source electrode supplier under NDA.
+Seasonality: pilot demand concentrates in summer months; adjacent segments
+(industrial firefighting, military training) are being tested to flatten it.
+Data sensitivity: on-gateway processing keeps raw biosignals on site by
+default, which has been decisive in EU works-council approvals so far.
+
+--- FINANCIALS AND ASK ---
+Monthly burn: EUR 88k. Runway: 9 months.
+Raising EUR 2.8M seed.
+Use of funds: 40% manufacturing scale-up, 30% field validation, 30% commercial.
+Milestones: 30 paying sites, EUR 700k ARR, CE pre-submission filed.

@@ -1,0 +1,5 @@
+endpoint,contrast,diff,ci_lo,ci_hi
+propagation,C0-C1,-0.0174,-0.0818,0.0431
+propagation,C1-C2,0.0174,-0.0345,0.0714
+propagation,C2-C2shuf,0.0087,-0.0351,0.0526
+propagation,C2-C3,0.0087,-0.0427,0.0603
